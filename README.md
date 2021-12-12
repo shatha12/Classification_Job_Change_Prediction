@@ -4,7 +4,8 @@ A company which is active in Big Data and Data Science wants to hire data scient
 because it helps to reduce the cost and time as well as the quality of training.
 
 Our Project is designed to understand the factors that lead a person to leave their current job.
-We will predict the probability of a candidate to look for a new job or will work for the company.
+
+We will predict the probability of a candidate to look for a new job or work for the company.
 
 ## Question/Need :
 

@@ -35,3 +35,14 @@ In total, the data consists of 19158 rows and 14 columns.
 |target|0 – Not looking for job change, 1 – Looking for a job change|
 
 
+## Tools :
+
+The main technologies and libraries that will be used are: 
+
+- Technologies: Python ,Jupyter Notebook , Canva , Zoom
+- Libraries:Pandas,BeautifulSoup and ,Matplotlib ,Seaborn ,NumPy ,sklearn
+
+## MVP :
+
+The primary goal of the project is to predict either will look for a new job or not.
+

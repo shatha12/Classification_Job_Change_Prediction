@@ -45,5 +45,5 @@ The main technologies and libraries that will be used are:
 
 ## MVP :
 
-The primary goal of the project is to predict either will look for a new job or not.
+The primary goal of the project is to predict either they will look for a new job or not.
 

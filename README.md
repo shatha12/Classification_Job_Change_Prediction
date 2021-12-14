@@ -40,7 +40,7 @@ In total, the data consists of 19158 rows and 14 columns.
 
 The main technologies and libraries that will be used are: 
 
-- Technologies: Python ,Jupyter Notebook , Canva , Zoom
+- Technologies: Python ,Jupyter Notebook , Canva , DeepNote
 - Libraries:Pandas,BeautifulSoup and ,Matplotlib ,Seaborn ,NumPy ,sklearn
 
 ## MVP :

@@ -20,7 +20,7 @@ In total, the data consists of 19158 rows and 14 columns.
 
 | Columns        | Description  | 
 | ------------- |:-------------:| 
-| enrollee_id   | nique ID for candidate|
+| enrollee_id   | unique ID for candidate|
 | city      | city code      |  
 | city_ development _index |     Developement index of the city|
 |gender| Gender of candidate|

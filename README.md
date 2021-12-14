@@ -22,7 +22,7 @@ In total, the data consists of 19158 rows and 14 columns.
 | ------------- |:-------------:| 
 | enrollee_id   | nique ID for candidate|
 | city      | city code      |  
-| city_ development _index |     Developement index of the city (scaled)!|
+| city_ development _index |     Developement index of the city|
 |gender| Gender of candidate|
 |relevent_experience|Relevant experience of candidate|
 |enrolled_university|Type of University course enrolled if any|

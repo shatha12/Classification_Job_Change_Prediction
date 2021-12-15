@@ -18,3 +18,5 @@ The following models are used:
 
 
 ![Screenshot](image.png)
+
+- the above figure shows that we have imbalanced data

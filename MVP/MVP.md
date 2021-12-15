@@ -13,3 +13,5 @@ The following models are used:
 ## Findings
 ![Screenshot](image.png)
 The above figure shows that our target variable is imbalanced
+
+![Screenshot](Screen Shot 1443-05-11 at 1.08.44 PM.png)

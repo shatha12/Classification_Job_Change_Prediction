@@ -12,7 +12,7 @@ The following models are used:
 - Random forest
 - XGboost
 - KNN
-- Decision Tree
+- Decision Tree.
 
 ## Findings
 

@@ -12,6 +12,7 @@ The following models are used:
 - Decision Tree
 ## Findings
 ![Screenshot](image.png)
-The above figure shows that our target variable is imbalanced
-
+- The above figure shows that our target variable is imbalanced
+- 
+### confusion matix for baseline model
 ![Screenshot](image2.png)

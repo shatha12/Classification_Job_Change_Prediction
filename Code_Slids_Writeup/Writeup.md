@@ -36,7 +36,7 @@ Pre-processing
 
 ## Tools
 Tools: 
-- Python, and Jupyter Notebook 
+- Python, and Jupyter Notebook , Flask, DeepNote
 - Libraries: BeautifulSoup, Selenium , Pandas, Numby, Sklearn, and Matplotlib ,Seaborn.
 
 
